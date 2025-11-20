@@ -1,0 +1,27 @@
+# Rider / IntelliJ IDEA служебные файлы
+.idea/
+*.iml
+
+# Папки сборки .NET
+bin/
+obj/
+
+# Исполняемые файлы
+*.exe
+*.dll
+*.pdb
+
+# Папки публикации
+publish/
+out/
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Конфиги IDE
+*.user
+*.suo
+
+# NuGet пакеты
+*.nupkg
